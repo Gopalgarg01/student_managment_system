@@ -1,0 +1,28 @@
+.grid1{
+    color: white;
+    background-color: aqua
+    
+}
+
+.addstudent{
+    background-color: #e040e0;
+    text-align: center;
+    color: white;
+    
+}
+.studentlist{
+    background-color: orange;
+    text-align: center;
+    color: white;
+    
+}
+
+.row1{
+   background-color: rgb(131, 94, 53);
+}
+
+.tablecell{
+    font-weight: bold;
+    color: white;
+}
+
